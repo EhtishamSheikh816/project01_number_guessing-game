@@ -1,0 +1,22 @@
+{
+  "name": "ehtisham_game",
+  "version": "1.0.3",
+  "description": "A simple number guessing game with Typescript, Node.js and Inqurior",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Ehtisham",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
